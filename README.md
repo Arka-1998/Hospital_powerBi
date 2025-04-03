@@ -20,4 +20,4 @@ Through interactive dashboards, stakeholders can monitor key performance indicat
 --Insights Generation
 
 ## DATABASE
-![](
+![DATA BASE](https://github.com/Arka-1998/Hospital_powerBi/blob/main/Hospital%20ER_Data.csv)
