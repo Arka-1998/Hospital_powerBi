@@ -1,4 +1,5 @@
-# Hospital_powerBi
+# Hospital PowerBi
+
 
 ## Introduction
 In modern healthcare, data-driven decision-making plays a crucial role in improving patient care and hospital efficiency. This Power BI project focuses on analyzing hospital emergency patient data to gain insights into patient demographics, visit patterns,  Patient Admission Status, Patient Age Distribution, Department Referrals, Timeliness, Gender Analysis, Racial Demographics, Time Analysis.
