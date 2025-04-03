@@ -7,17 +7,17 @@ Through interactive dashboards, stakeholders can monitor key performance indicat
 
 ## STEPS IN PROJECT
 
---Requirement Gathering/ Business Requirements
---Data Walkthrough
---Data Connection
---Data Cleaning / Quality Check
---Data Modeling
---Data Processing
---DAX Calculations
---Dashboard Lay outing
---Charts Development and Formatting
---Dashboard / Report Development
---Insights Generation
+- Requirement Gathering/ Business Requirements
+- Data Walkthrough
+- Data Connection
+- Data Cleaning / Quality Check
+- Data Modeling
+- Data Processing
+- DAX Calculations
+- Dashboard Lay outing
+- Charts Development and Formatting
+- Dashboard / Report Development
+- Insights Generation
 
 ## DATABASE
-![DATA BASE](https://github.com/Arka-1998/Hospital_powerBi/blob/main/Hospital%20ER_Data.csv)
+- [DATA BASE](https://github.com/Arka-1998/Hospital_powerBi/blob/main/Hospital%20ER_Data.csv)
